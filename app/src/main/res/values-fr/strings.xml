@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">MathInspecteur</string>
+        <string name="toolbar_title">Math Inspecteur</string>
+        <string name="prime">estPremier ?</string>
+        <string name="modulo">modulo de</string>
+        <string name="user_guide_title">Guide de l\'utilisateur</string>
+        <string name="user_guide_text">Bienvenue dans le guide utilisateur. Vous y trouverez des informations utiles pour utiliser l\'application.</string>
+        <string name="user_guide_button">Fermer</string>
+        <string name="about_button">À PROPOS</string>
+        <string name="about_title">À Propos</string>
+        <string name="about_text">Cette application m\'a définitivement prise trop de temps...</string>
+        <string name="snackbar_divider">"Veuillez entrer un diviseur correcte..."</string>
+        <string name="snackbar_quotient">"le quotient est "</string>
+        <string name="snackbar_number">"Le nombre "</string>
+        <string name="snackbar_is_prime">" est premier ! :)"</string>
+        <string name="snackbar_isnt_prime">" n'est pas premier... :("</string>
+</resources>

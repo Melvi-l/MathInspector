@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MathInspector</string>
+    <string name="toolbar_title">Math Inspector</string>
+    <string name="prime">isPrime ?</string>
+    <string name="modulo">modulo of </string>
+    <string name="user_guide_title">User Guide</string>
+    <string name="user_guide_text">"Welcome to the User Guide Application. Here you will find useful information for using our application."</string>
+    <string name="user_guide_button">Close</string>
+    <string name="about_button">ABOUT</string>
+    <string name="about_title">About</string>
+    <string name="about_text">This app took me way to long man...</string>
+    <string name="snackbar_divider">Please type a correct divider...</string>
+    <string name="snackbar_quotient">Quotient is </string>
+    <string name="snackbar_number">The number </string>
+    <string name="snackbar_is_prime"> is prime ! :)</string>
+    <string name="snackbar_isnt_prime"> isn\'t prime... :(</string>
+
+
+</resources>
